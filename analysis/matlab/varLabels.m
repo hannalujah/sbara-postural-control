@@ -1,0 +1,1 @@
+variableLabels = {'CoPx_MD','CoPy_MD', 'R_M','CoPx_MaxD','CoPy_MaxD','R_Max','CoPx_RMS', 'CoPy_RMS','R_RMS','CoPx_MeanSPD','CoPy_MeanSPD','MeanSPD','CoPx_VRMS','CoPx_VSTD', 'CoPy_VRMS','CoPy_VSTD','MFREQx','MFREQy','MFREQ','TotalPowerX','TotalPowerY','TotalPowerR','f50X','f50Y','f50XY','f95X','f95Y','f95XY', 'Area95'};
