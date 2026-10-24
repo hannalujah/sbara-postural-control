@@ -80,8 +80,3 @@ Each code folder has its own README.
 | Acquisition | Python ≥ 3.10, `pyserial` | [acquisition/README.md](acquisition/README.md) |
 | Analysis | MATLAB (Signal Processing Toolbox); Python with `pandas`, `openpyxl`, `statsmodels` | [analysis/README.md](analysis/README.md) |
 
-## Privacy
-
-Participants are identified only by pseudonymous IDs (S01–S15). Names have been removed from data file names
-and headers. The original code is kept as used in the study, so `analysis/matlab/Subjects.m` and
-`calculateCOPMeasurements.m` still contain participants' first names.
