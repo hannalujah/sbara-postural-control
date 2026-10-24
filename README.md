@@ -6,7 +6,7 @@ Code, data, and documents for my BSc project in Mechanical Engineering at Sharif
 **Thesis title (fa):** تحلیل و دسته‌بندی پاسخ مرکز فشار در افراد سالم تحت اغتشاش مکانیکی و شرایط حسی-شناختی گوناگون  
 *(Analysis and classification of centre-of-pressure responses in healthy adults under mechanical perturbation and different sensory–cognitive conditions)*
 
-**Paper:** H. Budaqi et al., *Postural Responses to Mediolateral Rotations – Contributions of Surface, Vision, and Cognitive Load* ([PDF](docs/paper/))
+**Paper:** H. Budaqi et al., *Postural Responses to Mediolateral Rotations – Contributions of Surface, Vision, and Cognitive Load* ([IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11392127) · [PDF](docs/paper/))
 
 <p align="center">
   <img src="media/SBARA.png" alt="SBARA robot" width="420"><br>
@@ -73,11 +73,6 @@ analysis/python/anova.py          3-way repeated-measures ANOVA per measure
 Each code folder has its own README.
 
 ## Getting started
-
-```bash
-git lfs install          # media/ is stored with Git LFS
-git clone <repo-url>
-```
 
 | Part | Requirements | Details |
 |------|--------------|---------|
